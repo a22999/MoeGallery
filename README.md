@@ -24,26 +24,26 @@ An android gallery to view anime images from online resources
 
 [http://gelbooru.com](http://gelbooru.com)
 
-## Screenshots
+## 截屏
 <img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-48-57.jpg" alt="screenshot" width="300">
 <img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-49-59.jpg" alt="screenshot" width="300">
 <img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-50-26.jpg" alt="screenshot" width="300">
 <img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-50-44.jpg" alt="screenshot" width="300">
 <img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-51-13.jpg" alt="screenshot" width="300">
 
-## Features
+## 特色
 
-1\. Good UI for browser
+1\. 美观的浏览器界面
 
-2\. Search tags from key words
+2\. 根据关键词搜索标签
 
-3\. History of searched/clicked tags
+3\. 搜索/单击标签的历史记录
 
-4\. History of visited images
+4\. 访问图像的历史记录
 
-5\. Add/browse favorite images (this is an app feature)
+5\. 添加/浏览喜爱的图片（适用于app）
 
-6\. Auto download source image when in view mode (can be changed to manually from setting)
+6\. 在查看图片时自动下载源图像（可从设置更改为手动）
 
 7\. And more coming...
 
